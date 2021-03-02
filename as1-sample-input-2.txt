@@ -1,0 +1,33 @@
+5 monsters
+StAugustine Grass 10
+Zoysia Grass 20
+WholeWheat Bread 10
+MultiGrain Bread 20
+Pumpkin Spice 20
+
+2 regions
+
+Rome
+3 monsters
+StAugustine
+WholeWheat
+Pumpkin
+
+Helve
+3 monsters
+Zoysia
+MultiGrain
+Pumpkin
+
+2 Trainers
+
+Alice
+6 captures
+2 regions
+Rome
+Helve
+
+Bob
+8 captures
+1 regions
+Helve
